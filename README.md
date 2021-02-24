@@ -17,3 +17,7 @@ I have been working in web development for a little more than 9 years-freelance 
 Easy to teach new things, assiduous and stress-resistant. I lead an active and healthy lifestyle, there are no bad habits.
 
 You can look at some code examples at me on [my github](https://github.com/grhgrmgrhrm)
+
+### My skills
+
+I am learning JavaScript and React, recently started Typescript. Familiar with Agile and Waterfall development methodology. In my work I use the Git version control system, the development environment is WebStorm, for minor edits of the Sublime Text code.
