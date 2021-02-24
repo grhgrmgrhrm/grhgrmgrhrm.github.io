@@ -13,6 +13,7 @@ I continue to learn HTML, JavaScript, React and TypeScript
 ### Brief information about me
 
 I have been working in web development for a little more than 9 years-freelance and project work. All this time, I was engaged in both the layout of sites from the customer's layouts, and the creation of sites on content management systems ( Joomla, Wordpress). In the process, the knowledge was not enough, so I turned my attention to JavaScript and React to create easily scalable applications.
+
 Easy to teach new things, assiduous and stress-resistant. I lead an active and healthy lifestyle, there are no bad habits.
 
 You can look at some code examples at me on [my github](https://github.com/grhgrmgrhrm)
