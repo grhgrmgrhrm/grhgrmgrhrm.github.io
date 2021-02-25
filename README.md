@@ -39,18 +39,22 @@ let calculations = ['='];
 ### Work experience
 
 `2020-2021` 
+
 __Improving your knowledge in Javascript, React__
 
 `2017-2020`
+
 __Self-education and increasing the level of knowledge__
 
 `2011-2016`
+
 __Project work, remote work. Working on your own projects.__
 
 ### Education
 
 `2020`
-__Online lectures on TypeScript_
+
+__Online lectures on TypeScript__
 
 `2017-2018`
 
