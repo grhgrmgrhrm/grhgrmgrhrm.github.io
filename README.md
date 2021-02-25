@@ -63,3 +63,8 @@ __Training on the educational platform "Geekbrains" as a Frontend developer__
 `-2018`
 
 __Self-education__
+
+
+### Level of English
+
+English at the level of reading documentation + basic language constructs. Conversational practice is not enough, since the customers were mostly Russian-speaking.
