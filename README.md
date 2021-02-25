@@ -25,3 +25,14 @@ You can look at some code examples at me on [my github](https://github.com/grhgr
 ### My skills
 
 I am learning JavaScript and React, recently started Typescript. Familiar with Agile and Waterfall development methodology. In my work I use the Git version control system, the development environment is WebStorm, for minor edits of the Sublime Text code.
+
+### My code examples
+
+```javascript
+let buttons = ['7', '8', '9', '4', '5', '6', '1', '2', '3', '.', '0','AC'];
+let operations = ['/', '*', '-', '+'];
+let calculations = ['='];
+```
+
+[View the result](https://jsfiddle.net/raman_shastapalau/hpvkos30/7/)
+
