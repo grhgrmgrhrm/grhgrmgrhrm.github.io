@@ -44,7 +44,7 @@ __Improving your knowledge in Javascript, React__
 
 `2017-2020`
 
-__Self-education and increasing the level of knowledge__
+__Self-education and increasing the level of knowledge, as well as the practical application of the theoretical knowledge gained.__
 
 `2011-2016`
 
